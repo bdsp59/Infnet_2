@@ -1,0 +1,7 @@
+Criar uma API
+
+Crie uma interface que permita selecionar um partido político em uma caixa de seleção e, ao seleciona-lo, exiba os dados de 
+todos os seus parlamentares da atual legislatura, em um SPA(Single Page Application)
+
+	-Os partidos devem ser obtidos através da API, consumida em json.
+	-Os parlamentares devem ser obtidos através da API, consumida em json.
